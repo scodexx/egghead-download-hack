@@ -1,1 +1,2 @@
-downloader.html linguist-vendored
+* linguist-vendored
+*.js linguist-vendored=false
